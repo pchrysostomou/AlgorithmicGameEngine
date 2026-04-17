@@ -1,5 +1,5 @@
 # AlgorithmicGameEngine
-## Interactive Game Logic & Computational Decision Systems (Python)
+## Interactive Game Logic & Computational Decision Systems 
 
 This repository presents a structured implementation of an interactive game system focused on algorithmic logic, decision processes, and clean software design. 
 
